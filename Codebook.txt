@@ -1,0 +1,11 @@
+Codes:
+
+Subjects = 1 - 30
+
+
+1= laying down
+2= sitting down
+3= standing
+4= walking
+5= walking up
+6= walking down
